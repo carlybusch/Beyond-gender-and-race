@@ -1,0 +1,121 @@
+"csi","count","reason","saw_question","pct"
+"lgbtq",7,"I did not feel like I had a personal enough relationship with the students in this course",14,0.5
+"lgbtq",5,"in this course was inappropriate",14,0.357142857142857
+"lgbtq",9,"I typically do not share",14,0.642857142857143
+"lgbtq",4,"was relevant to the students in this course",14,0.285714285714286
+"lgbtq",7,"was relevant to the course content",14,0.5
+"lgbtq",4,"I did not know others in the department, such as other faculty or instructors, who had revealed a similar identity to people in the department",14,0.285714285714286
+"lgbtq",4,"I had never thought about",14,0.285714285714286
+"lgbtq",5,"I was concerned students would have a negative opinion",14,0.357142857142857
+"lgbtq",4,"result in poor course evaluations",14,0.285714285714286
+"lgbtq",3,"I was concerned that I would be subjected to departmental disciplinary action",14,0.214285714285714
+"lgbtq",2,"I was concerned I could be fired",14,0.142857142857143
+"lgbtq",2,"would waste class time",14,0.142857142857143
+"lgbq",25,"I did not feel like I had a personal enough relationship with the students in this course",51,0.490196078431373
+"lgbq",18,"in this course was inappropriate",51,0.352941176470588
+"lgbq",24,"I typically do not share",51,0.470588235294118
+"lgbq",18,"was relevant to the students in this course",51,0.352941176470588
+"lgbq",29,"was relevant to the course content",51,0.568627450980392
+"lgbq",13,"I did not know others in the department, such as other faculty or instructors, who had revealed a similar identity to people in the department",51,0.254901960784314
+"lgbq",15,"I had never thought about",51,0.294117647058824
+"lgbq",19,"I was concerned students would have a negative opinion",51,0.372549019607843
+"lgbq",15,"result in poor course evaluations",51,0.294117647058824
+"lgbq",7,"I was concerned that I would be subjected to departmental disciplinary action",51,0.137254901960784
+"lgbq",3,"I was concerned I could be fired",51,0.0588235294117647
+"lgbq",10,"would waste class time",51,0.196078431372549
+"depress",134,"I did not feel like I had a personal enough relationship with the students in this course",301,0.445182724252492
+"depress",144,"in this course was inappropriate",301,0.478405315614618
+"depress",220,"I typically do not share",301,0.730897009966777
+"depress",119,"was relevant to the students in this course",301,0.395348837209302
+"depress",156,"was relevant to the course content",301,0.518272425249169
+"depress",76,"I did not know others in the department, such as other faculty or instructors, who had revealed a similar identity to people in the department",301,0.252491694352159
+"depress",151,"I had never thought about",301,0.501661129568106
+"depress",88,"I was concerned students would have a negative opinion",301,0.292358803986711
+"depress",58,"result in poor course evaluations",301,0.192691029900332
+"depress",33,"I was concerned that I would be subjected to departmental disciplinary action",301,0.109634551495017
+"depress",16,"I was concerned I could be fired",301,0.053156146179402
+"depress",50,"would waste class time",301,0.166112956810631
+"anxiety",179,"I did not feel like I had a personal enough relationship with the students in this course",367,0.487738419618529
+"anxiety",157,"in this course was inappropriate",367,0.427792915531335
+"anxiety",232,"I typically do not share",367,0.632152588555858
+"anxiety",162,"was relevant to the students in this course",367,0.44141689373297
+"anxiety",188,"was relevant to the course content",367,0.512261580381471
+"anxiety",96,"I did not know others in the department, such as other faculty or instructors, who had revealed a similar identity to people in the department",367,0.26158038147139
+"anxiety",179,"I had never thought about",367,0.487738419618529
+"anxiety",98,"I was concerned students would have a negative opinion",367,0.267029972752044
+"anxiety",79,"result in poor course evaluations",367,0.215258855585831
+"anxiety",29,"I was concerned that I would be subjected to departmental disciplinary action",367,0.0790190735694823
+"anxiety",12,"I was concerned I could be fired",367,0.0326975476839237
+"anxiety",68,"would waste class time",367,0.185286103542234
+"ses",56,"I did not feel like I had a personal enough relationship with the students in this course",188,0.297872340425532
+"ses",77,"in this course was inappropriate",188,0.409574468085106
+"ses",86,"I typically do not share",188,0.457446808510638
+"ses",81,"was relevant to the students in this course",188,0.430851063829787
+"ses",116,"was relevant to the course content",188,0.617021276595745
+"ses",33,"I did not know others in the department, such as other faculty or instructors, who had revealed a similar identity to people in the department",188,0.175531914893617
+"ses",91,"I had never thought about",188,0.484042553191489
+"ses",17,"I was concerned students would have a negative opinion",188,0.0904255319148936
+"ses",10,"result in poor course evaluations",188,0.0531914893617021
+"ses",3,"I was concerned that I would be subjected to departmental disciplinary action",188,0.0159574468085106
+"ses",2,"I was concerned I could be fired",188,0.0106382978723404
+"ses",29,"would waste class time",188,0.154255319148936
+"addiction",19,"I did not feel like I had a personal enough relationship with the students in this course",51,0.372549019607843
+"addiction",26,"in this course was inappropriate",51,0.509803921568627
+"addiction",39,"I typically do not share",51,0.764705882352941
+"addiction",21,"was relevant to the students in this course",51,0.411764705882353
+"addiction",25,"was relevant to the course content",51,0.490196078431373
+"addiction",8,"I did not know others in the department, such as other faculty or instructors, who had revealed a similar identity to people in the department",51,0.156862745098039
+"addiction",23,"I had never thought about",51,0.450980392156863
+"addiction",21,"I was concerned students would have a negative opinion",51,0.411764705882353
+"addiction",13,"result in poor course evaluations",51,0.254901960784314
+"addiction",13,"I was concerned that I would be subjected to departmental disciplinary action",51,0.254901960784314
+"addiction",14,"I was concerned I could be fired",51,0.274509803921569
+"addiction",7,"would waste class time",51,0.137254901960784
+"fgen",57,"I did not feel like I had a personal enough relationship with the students in this course",247,0.230769230769231
+"fgen",61,"in this course was inappropriate",247,0.246963562753036
+"fgen",83,"I typically do not share",247,0.336032388663968
+"fgen",99,"was relevant to the students in this course",247,0.40080971659919
+"fgen",139,"was relevant to the course content",247,0.562753036437247
+"fgen",27,"I did not know others in the department, such as other faculty or instructors, who had revealed a similar identity to people in the department",247,0.109311740890688
+"fgen",115,"I had never thought about",247,0.465587044534413
+"fgen",9,"I was concerned students would have a negative opinion",247,0.0364372469635627
+"fgen",4,"result in poor course evaluations",247,0.0161943319838057
+"fgen",0,"I was concerned that I would be subjected to departmental disciplinary action",247,0
+"fgen",0,"I was concerned I could be fired",247,0
+"fgen",25,"would waste class time",247,0.101214574898785
+"struggle",44,"I did not feel like I had a personal enough relationship with the students in this course",108,0.407407407407407
+"struggle",40,"in this course was inappropriate",108,0.37037037037037
+"struggle",52,"I typically do not share",108,0.481481481481481
+"struggle",30,"was relevant to the students in this course",108,0.277777777777778
+"struggle",51,"was relevant to the course content",108,0.472222222222222
+"struggle",21,"I did not know others in the department, such as other faculty or instructors, who had revealed a similar identity to people in the department",108,0.194444444444444
+"struggle",47,"I had never thought about",108,0.435185185185185
+"struggle",33,"I was concerned students would have a negative opinion",108,0.305555555555556
+"struggle",21,"result in poor course evaluations",108,0.194444444444444
+"struggle",5,"I was concerned that I would be subjected to departmental disciplinary action",108,0.0462962962962963
+"struggle",3,"I was concerned I could be fired",108,0.0277777777777778
+"struggle",16,"would waste class time",108,0.148148148148148
+"disability",21,"I did not feel like I had a personal enough relationship with the students in this course",37,0.567567567567568
+"disability",23,"in this course was inappropriate",37,0.621621621621622
+"disability",28,"I typically do not share",37,0.756756756756757
+"disability",20,"was relevant to the students in this course",37,0.540540540540541
+"disability",22,"was relevant to the course content",37,0.594594594594595
+"disability",14,"I did not know others in the department, such as other faculty or instructors, who had revealed a similar identity to people in the department",37,0.378378378378378
+"disability",13,"I had never thought about",37,0.351351351351351
+"disability",15,"I was concerned students would have a negative opinion",37,0.405405405405405
+"disability",12,"result in poor course evaluations",37,0.324324324324324
+"disability",4,"I was concerned that I would be subjected to departmental disciplinary action",37,0.108108108108108
+"disability",4,"I was concerned I could be fired",37,0.108108108108108
+"disability",8,"would waste class time",37,0.216216216216216
+"transfer",12,"I did not feel like I had a personal enough relationship with the students in this course",50,0.24
+"transfer",7,"in this course was inappropriate",50,0.14
+"transfer",18,"I typically do not share",50,0.36
+"transfer",23,"was relevant to the students in this course",50,0.46
+"transfer",33,"was relevant to the course content",50,0.66
+"transfer",10,"I did not know others in the department, such as other faculty or instructors, who had revealed a similar identity to people in the department",50,0.2
+"transfer",23,"I had never thought about",50,0.46
+"transfer",4,"I was concerned students would have a negative opinion",50,0.08
+"transfer",1,"result in poor course evaluations",50,0.02
+"transfer",0,"I was concerned that I would be subjected to departmental disciplinary action",50,0
+"transfer",1,"I was concerned I could be fired",50,0.02
+"transfer",13,"would waste class time",50,0.26

@@ -1,0 +1,141 @@
+"csi","count","reason","saw_question","pct"
+"lgbtq",1,"I felt like I had a personal relationship with the students in the course",4,0.25
+"lgbtq",4,"students in this course was appropriate",4,1
+"lgbtq",3,"I typically share",4,0.75
+"lgbtq",3,"relevant to the students in this course",4,0.75
+"lgbtq",0,"relevant to the course content",4,0
+"lgbtq",0,"I knew others in the department",4,0
+"lgbtq",3,"live authentically or be open",4,0.75
+"lgbtq",4,"I wanted to be an example to my students",4,1
+"lgbtq",4,"I wanted to serve as a mentor",4,1
+"lgbtq",4,"I wanted to be known as a supporter",4,1
+"lgbtq",1,"could make me more relatable",4,0.25
+"lgbtq",2,"could make students more comfortable",4,0.5
+"lgbtq",0,"could help students understand me or my circumstances better",4,0
+"lgbtq",0,"course material by making a connection",4,0
+"lgbq",5,"I felt like I had a personal relationship with the students in the course",16,0.3125
+"lgbq",12,"students in this course was appropriate",16,0.75
+"lgbq",13,"I typically share",16,0.8125
+"lgbq",6,"relevant to the students in this course",16,0.375
+"lgbq",3,"relevant to the course content",16,0.1875
+"lgbq",1,"I knew others in the department",16,0.0625
+"lgbq",13,"live authentically or be open",16,0.8125
+"lgbq",14,"I wanted to be an example to my students",16,0.875
+"lgbq",12,"I wanted to serve as a mentor",16,0.75
+"lgbq",13,"I wanted to be known as a supporter",16,0.8125
+"lgbq",8,"could make me more relatable",16,0.5
+"lgbq",9,"could make students more comfortable",16,0.5625
+"lgbq",4,"could help students understand me or my circumstances better",16,0.25
+"lgbq",5,"course material by making a connection",16,0.3125
+"depress",2,"I felt like I had a personal relationship with the students in the course",16,0.125
+"depress",8,"students in this course was appropriate",16,0.5
+"depress",4,"I typically share",16,0.25
+"depress",7,"relevant to the students in this course",16,0.4375
+"depress",5,"relevant to the course content",16,0.3125
+"depress",0,"I knew others in the department",16,0
+"depress",6,"live authentically or be open",16,0.375
+"depress",12,"I wanted to be an example to my students",16,0.75
+"depress",7,"I wanted to serve as a mentor",16,0.4375
+"depress",10,"I wanted to be known as a supporter",16,0.625
+"depress",4,"could make me more relatable",16,0.25
+"depress",4,"could make students more comfortable",16,0.25
+"depress",2,"could help students understand me or my circumstances better",16,0.125
+"depress",6,"course material by making a connection",16,0.375
+"anxiety",6,"I felt like I had a personal relationship with the students in the course",32,0.1875
+"anxiety",18,"students in this course was appropriate",32,0.5625
+"anxiety",9,"I typically share",32,0.28125
+"anxiety",17,"relevant to the students in this course",32,0.53125
+"anxiety",5,"relevant to the course content",32,0.15625
+"anxiety",3,"I knew others in the department",32,0.09375
+"anxiety",14,"live authentically or be open",32,0.4375
+"anxiety",25,"I wanted to be an example to my students",32,0.78125
+"anxiety",14,"I wanted to serve as a mentor",32,0.4375
+"anxiety",20,"I wanted to be known as a supporter",32,0.625
+"anxiety",11,"could make me more relatable",32,0.34375
+"anxiety",21,"could make students more comfortable",32,0.65625
+"anxiety",10,"could help students understand me or my circumstances better",32,0.3125
+"anxiety",5,"course material by making a connection",32,0.15625
+"ses",5,"I felt like I had a personal relationship with the students in the course",25,0.2
+"ses",13,"students in this course was appropriate",25,0.52
+"ses",5,"I typically share",25,0.2
+"ses",12,"relevant to the students in this course",25,0.48
+"ses",1,"relevant to the course content",25,0.04
+"ses",1,"I knew others in the department",25,0.04
+"ses",7,"live authentically or be open",25,0.28
+"ses",20,"I wanted to be an example to my students",25,0.8
+"ses",15,"I wanted to serve as a mentor",25,0.6
+"ses",13,"I wanted to be known as a supporter",25,0.52
+"ses",14,"could make me more relatable",25,0.56
+"ses",11,"could make students more comfortable",25,0.44
+"ses",2,"could help students understand me or my circumstances better",25,0.08
+"ses",2,"course material by making a connection",25,0.08
+"addiction",0,"I felt like I had a personal relationship with the students in the course",1,0
+"addiction",1,"students in this course was appropriate",1,1
+"addiction",0,"I typically share",1,0
+"addiction",1,"relevant to the students in this course",1,1
+"addiction",1,"relevant to the course content",1,1
+"addiction",0,"I knew others in the department",1,0
+"addiction",0,"live authentically or be open",1,0
+"addiction",0,"I wanted to be an example to my students",1,0
+"addiction",1,"I wanted to serve as a mentor",1,1
+"addiction",1,"I wanted to be known as a supporter",1,1
+"addiction",0,"could make me more relatable",1,0
+"addiction",0,"could make students more comfortable",1,0
+"addiction",0,"could help students understand me or my circumstances better",1,0
+"addiction",0,"course material by making a connection",1,0
+"fgen",15,"I felt like I had a personal relationship with the students in the course",65,0.230769230769231
+"fgen",45,"students in this course was appropriate",65,0.692307692307692
+"fgen",24,"I typically share",65,0.369230769230769
+"fgen",42,"relevant to the students in this course",65,0.646153846153846
+"fgen",11,"relevant to the course content",65,0.169230769230769
+"fgen",7,"I knew others in the department",65,0.107692307692308
+"fgen",24,"live authentically or be open",65,0.369230769230769
+"fgen",53,"I wanted to be an example to my students",65,0.815384615384615
+"fgen",43,"I wanted to serve as a mentor",65,0.661538461538462
+"fgen",48,"I wanted to be known as a supporter",65,0.738461538461539
+"fgen",34,"could make me more relatable",65,0.523076923076923
+"fgen",35,"could make students more comfortable",65,0.538461538461538
+"fgen",10,"could help students understand me or my circumstances better",65,0.153846153846154
+"fgen",14,"course material by making a connection",65,0.215384615384615
+"struggle",7,"I felt like I had a personal relationship with the students in the course",45,0.155555555555556
+"struggle",40,"students in this course was appropriate",45,0.888888888888889
+"struggle",10,"I typically share",45,0.222222222222222
+"struggle",38,"relevant to the students in this course",45,0.844444444444444
+"struggle",10,"relevant to the course content",45,0.222222222222222
+"struggle",1,"I knew others in the department",45,0.0222222222222222
+"struggle",16,"live authentically or be open",45,0.355555555555556
+"struggle",40,"I wanted to be an example to my students",45,0.888888888888889
+"struggle",25,"I wanted to serve as a mentor",45,0.555555555555556
+"struggle",36,"I wanted to be known as a supporter",45,0.8
+"struggle",24,"could make me more relatable",45,0.533333333333333
+"struggle",24,"could make students more comfortable",45,0.533333333333333
+"struggle",6,"could help students understand me or my circumstances better",45,0.133333333333333
+"struggle",12,"course material by making a connection",45,0.266666666666667
+"disability",1,"I felt like I had a personal relationship with the students in the course",15,0.0666666666666667
+"disability",6,"students in this course was appropriate",15,0.4
+"disability",8,"I typically share",15,0.533333333333333
+"disability",8,"relevant to the students in this course",15,0.533333333333333
+"disability",5,"relevant to the course content",15,0.333333333333333
+"disability",0,"I knew others in the department",15,0
+"disability",5,"live authentically or be open",15,0.333333333333333
+"disability",8,"I wanted to be an example to my students",15,0.533333333333333
+"disability",5,"I wanted to serve as a mentor",15,0.333333333333333
+"disability",7,"I wanted to be known as a supporter",15,0.466666666666667
+"disability",4,"could make me more relatable",15,0.266666666666667
+"disability",4,"could make students more comfortable",15,0.266666666666667
+"disability",8,"could help students understand me or my circumstances better",15,0.533333333333333
+"disability",6,"course material by making a connection",15,0.4
+"transfer",1,"I felt like I had a personal relationship with the students in the course",9,0.111111111111111
+"transfer",4,"students in this course was appropriate",9,0.444444444444444
+"transfer",4,"I typically share",9,0.444444444444444
+"transfer",2,"relevant to the students in this course",9,0.222222222222222
+"transfer",1,"relevant to the course content",9,0.111111111111111
+"transfer",0,"I knew others in the department",9,0
+"transfer",4,"live authentically or be open",9,0.444444444444444
+"transfer",7,"I wanted to be an example to my students",9,0.777777777777778
+"transfer",3,"I wanted to serve as a mentor",9,0.333333333333333
+"transfer",6,"I wanted to be known as a supporter",9,0.666666666666667
+"transfer",5,"could make me more relatable",9,0.555555555555556
+"transfer",5,"could make students more comfortable",9,0.555555555555556
+"transfer",3,"could help students understand me or my circumstances better",9,0.333333333333333
+"transfer",2,"course material by making a connection",9,0.222222222222222
